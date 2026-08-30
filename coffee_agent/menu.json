@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Espresso Solo",
+    "description": "A single shot of rich, bold espresso.",
+    "price": 2.50,
+    "tags": ["strong", "hot", "dairy-free", "sugar-free"],
+    "allergens": []
+  },
+  {
+    "name": "Oat Milk Honey Latte",
+    "description": "Creamy steamed oat milk with espresso and honey.",
+    "price": 5.00,
+    "tags": ["sweet", "hot", "dairy-free"],
+    "allergens": []
+  },
+  {
+    "name": "Cold Brew Coffee",
+    "description": "Smooth, slow-steeped cold brew served over ice.",
+    "price": 4.00,
+    "tags": ["strong", "cold", "dairy-free", "sugar-free"],
+    "allergens": []
+  },
+  {
+    "name": "Seasonal Pumpkin Latte",
+    "description": "Spiced pumpkin sauce, espresso and steamed milk.",
+    "price": 5.50,
+    "tags": ["sweet", "hot", "seasonal"],
+    "allergens": ["dairy"]
+  },
+  {
+    "name": "Vegan Blueberry Muffin",
+    "description": "Sweet blueberry muffin, entirely plant-based.",
+    "price": 3.75,
+    "tags": ["bakery", "sweet", "dairy-free", "vegan"],
+    "allergens": ["wheat"]
+  },
+  {
+    "name": "Nitro Cold Brew",
+    "description": "Cold brew infused with nitrogen for a smooth finish.",
+    "price": 4.50,
+    "tags": ["strong", "cold", "dairy-free", "sugar-free"],
+    "allergens": []
+  }
+]

@@ -1,0 +1,50 @@
+COFFEE SHOP MENU
+
+Espresso - ₹120
+Strong, rich coffee made from finely ground coffee beans.
+
+Americano - ₹140
+Espresso mixed with hot water. Light and smooth.
+
+Cappuccino - ₹160
+Espresso with steamed milk and thick milk foam.
+
+Cafe Latte - ₹170
+Espresso with plenty of steamed milk and a light layer of foam.
+
+Mocha - ₹190
+Espresso, steamed milk, and chocolate.
+
+Cold Coffee - ₹180
+Chilled coffee blended with milk and ice.
+
+Caramel Latte - ₹200
+Cafe latte with caramel flavor.
+
+Masala Chai - ₹100
+Indian spiced tea with milk.
+
+CUSTOMER PREFERENCES
+
+For strong coffee:
+Recommend Espresso or Americano.
+
+For creamy/milky drinks:
+Recommend Cappuccino or Cafe Latte.
+
+For chocolate lovers:
+Recommend Mocha.
+
+For cold drinks:
+Recommend Cold Coffee.
+
+For sweet drinks:
+Recommend Caramel Latte or Mocha.
+
+For tea lovers:
+Recommend Masala Chai.
+
+VEGETARIAN NOTE:
+All listed drinks are vegetarian.
+
+The assistant should only recommend items from this menu and should not invent prices or menu items.
