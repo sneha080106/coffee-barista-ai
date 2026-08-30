@@ -78,9 +78,6 @@ cd coffee_agent
 streamlit run app.py
 ```
 
-## 🌐 Live Demo
-
-[Coffee Barista AI](https://coffee-ai-agent-nspw2mpfha-uc.a.run.app)
 
 ## 🎯 Project Goal
 
